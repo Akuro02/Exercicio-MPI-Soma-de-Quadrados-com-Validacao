@@ -21,7 +21,7 @@ implementar um programa em **C com MPI** que calcula a soma dos quadrados dos n�
 ```math
 \sum_{i=1}^{N} i^2 = \frac{N(N+1)(2N+1)}{6}
 ```
-8. Processo raiz imprime o resultado
+9. Processo raiz imprime o resultado
 ---
 ## Compilação e execução
 ### Compilar o código
